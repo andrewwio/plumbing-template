@@ -21754,7 +21754,7 @@ a:focus {
   outline: 0;
 }
 a[href^=tel] {
-  color: inherit;
+  /* color: inherit; */
   text-decoration: inherit;
 }
 a.hover {
