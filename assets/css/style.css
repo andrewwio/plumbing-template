@@ -39236,7 +39236,7 @@ table.shopping-cart td {
 .bg-line.primary {
   background: repeating-linear-gradient(-55deg, rgba(255, 255, 255, 0) 0.8px, #3f78e0 1.6px, #3f78e0 3px, rgba(255, 255, 255, 0) 3.8px, rgba(255, 255, 255, 0) 10px);
 }
-@media (max-width: 766px) {
+@media (max-width: 767px) {
   .shape {
     display: none;
   }
